@@ -2,7 +2,7 @@
 
 Program a microcontroller with Block &amp; MicroPython.
 
-<img src="https://i.ibb.co/R3BypWc/micro-Block-IDE-V2-2-0.png" alt="microBlock IDE V2.2.0" border="0">
+<img src="https://i.ibb.co/R3BypWc/micro-Block-IDE-V2-2-0.png" alt="TekTech IDE V1.5.0" border="0">
 
 ## Features
 
@@ -11,7 +11,7 @@ Program a microcontroller with Block &amp; MicroPython.
  * Add features with install Extension
  * Share code by one click
  * Use offline
- * see every data from your board on Dashboard !
+ * See every data from your board on Dashboard !
  
 ## Backend Technology
 
